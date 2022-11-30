@@ -1,16 +1,14 @@
-# Vincent G2021 
+# Vincent Gadé (Vincent G2021)
 
-`Learner in Johnson 6.30 team with BeCode`
+I'm a junior web developer / programmer.
 
-This is my first *try* with the markup language *Markdown*.
+`I was a learner in 2022 with the Johnson 6.30 team @ BeCode`
 
-![On the A train again!](https://app.backstage.network/wp-content/uploads/buddypress/members/440/cover-image/5f59cc38df10f-bp-cover-image.jpg)
+This was my first *try* with the markup language *Markdown*.
 
 ## Who am I ?
 
-I'm a human being, learning Web Development.
-
-I have dreams : my involvement in web development and computer programming is gradually becoming a reality.
+A human being, learning day & night, with dreams !
 
 I also do :
 - pocket trumpet, 
@@ -22,15 +20,14 @@ These are a few of my favourite things ...
 - .............misc..........culture..........
 - .....curiosity.......and...........juggling !
 
-### With BeCode, I will do my best to :
+### With BeCode, I did my best to :
 - develop soft & hard skills 
 - collaborate with various human beings 
-- flourish among projects achievement 
-(misunderstanding can sometimes be frightening)
+- flourish among projects achievement
 
-So I'm looking forward to learn and practice, discover several tools, work as a team & with communities.
+I learned and practice a lot, discovered many different tools, and worked as a team.
 
-#### Three things I would value the most to work together :
+#### Three things I would value @ work :
 - group confidence, interdependance
 - multiplicity and variety of challenges
 - surprises
